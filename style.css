@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+   
+   }
+   #wrapper{
+    width: 950px;
+    padding: 15px;
+    background-color: rgb(97, 94, 94);
+    margin: 10px;
+    
+    
+   }
+   #header{
+    height: 150px;
+    background-color: green;
+    margin: 0px 0px 20px 0px;
+   }
+   #navigation{
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+    margin: 0px 0px 120px 0px;
+   }
+   #main_content{
+    height: 400px;
+    width: 700px;
+    background-color: red;
+    display: inline-block;
+    margin: 0px 0px 0px 15px;
+    padding: 0px 0px 20px 15px;
+   
+    
+   }
+   .subcontents{
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    display: inline-block;
+    margin: 30px 20px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    overflow: hidden;
+   
+    
+    
+   
+    
+   }
+   #advertisement{
+    height: 120px;
+    width: 660px;
+    background-color: purple;
+    margin: 10px 0px 0px 0px;
+    padding: 0px 20px 0px 0px;
+    
+   }
+  
+   
